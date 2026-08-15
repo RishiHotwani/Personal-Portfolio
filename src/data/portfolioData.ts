@@ -20,7 +20,7 @@ export const PERSONAL_INFO = {
 };
 
 export const HIGHLIGHT_STATS: StatItem[] = [
-  { label: "Academics", value: "8.38 CGPA", subtext: "B.Tech in Computer Engineering" },
+  { label: "Academics", value: "8.38 CGPA", subtext: "BE in Information Technology" },
   { label: "Graduation", value: "2022–2026", subtext: "Gujarat Technological University" },
   { label: "Featured Work", value: "4+ Major Projects", subtext: "Shipped & Live Deployments" },
   { label: "Core Focus", value: "Full-Stack + AI", subtext: "React, Spring Boot, ML Models" }
@@ -28,7 +28,7 @@ export const HIGHLIGHT_STATS: StatItem[] = [
 
 export const EDUCATION_DATA: Education = {
   institution: "Gujarat Technological University",
-  degree: "B.Tech in Computer Engineering",
+  degree: "BE in Information Technology",
   grade: "8.38 CGPA",
   period: "2022 – 2026",
   details: [
